@@ -33,6 +33,8 @@ pip install -r requirements.txt
  
  ![f1](imgs/f1.png)
  
+ 
+ ## 
  模型采用pytorch -> torchscript方式打包至移动端。
  模型移动端推理测试图像如下：
  
