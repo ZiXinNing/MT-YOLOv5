@@ -32,15 +32,19 @@ pip install -r requirements.txt
  模型F1值曲线如下图
  
  ![f1](imgs/f1.png)
+ 
  模型采用pytorch -> torchscript方式打包至移动端。
  模型移动端推理测试图像如下：
- ![mobile](imgs/mobile.gif)
- 模型PC端推理测试图像如下：
-![f1](imgs/test1.jpg)
-![f1](imgs/test2.jpg)
-![f1](imgs/test3.jpg)
-![f1](imgs/test5.jpg)
-![f1](imgs/test6.jpg)
-![f1](imgs/test7.jpg)
+ 
+![mobile](http://drinklake.com/static/img/mobile.gif)
+
+模型PC端推理测试图像如下：
+
+![test1](http://drinklake.com/static/img/test1.jpg)
+![test2](http://drinklake.com/static/img/test2.jpg)
+![test3](http://drinklake.com/static/img/test3.jpg)
+![test5](http://drinklake.com/static/img/test5.jpg)
+![test6](http://drinklake.com/static/img/test6.jpg)
+![test7](http://drinklake.com/static/img/test7.jpg)
 
  
